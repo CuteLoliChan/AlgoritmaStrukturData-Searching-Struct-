@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1558059614 source:c:\users\tiara\documents\kuliah\semester 2\tugas\algoritma & struktur data\p25 ~ searching (struct)\1. sequential unsorted\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

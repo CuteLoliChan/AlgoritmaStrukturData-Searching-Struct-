@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1558190400 source:c:\users\tiara\documents\kuliah\semester 2\tugas\algoritma & struktur data\p25 ~ searching (struct)\3. menu searching\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

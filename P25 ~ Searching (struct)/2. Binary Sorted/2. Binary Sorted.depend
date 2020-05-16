@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1558060349 source:c:\users\tiara\documents\kuliah\semester 2\tugas\algoritma & struktur data\p25 ~ searching (struct)\2. binary sorted\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
